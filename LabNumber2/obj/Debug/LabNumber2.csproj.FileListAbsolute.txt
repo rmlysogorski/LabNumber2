@@ -1,0 +1,6 @@
+C:\Users\Richie\source\repos\LabNumber2\LabNumber2\bin\Debug\LabNumber2.exe.config
+C:\Users\Richie\source\repos\LabNumber2\LabNumber2\bin\Debug\LabNumber2.exe
+C:\Users\Richie\source\repos\LabNumber2\LabNumber2\bin\Debug\LabNumber2.pdb
+C:\Users\Richie\source\repos\LabNumber2\LabNumber2\obj\Debug\LabNumber2.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\LabNumber2\LabNumber2\obj\Debug\LabNumber2.exe
+C:\Users\Richie\source\repos\LabNumber2\LabNumber2\obj\Debug\LabNumber2.pdb
